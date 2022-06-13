@@ -1,0 +1,18 @@
+#show {
+
+    font-size: 25px;
+}
+
+#image {
+
+    height: 150px;
+    width: 150px;
+}
+
+button {
+
+    background-color: rgb(128, 230, 182);
+    border: none;
+    padding: 5px 15px;  
+    cursor: pointer;
+}
